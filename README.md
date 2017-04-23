@@ -1,1 +1,1 @@
-# Ovde se nalaze primeri y anastavu programiranja koristeći programski jezik Python
+# Ovde se nalaze primeri za nastavu programiranja koristeći programski jezik Python
